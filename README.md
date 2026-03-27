@@ -5,9 +5,7 @@ Built an advanced ML model using Decision Tree with pipeline architecture, hyper
 
 An advanced Machine Learning project that predicts whether a student will **Pass or Fail** using a **Decision Tree Classifier**. This project includes a complete ML pipeline, hyperparameter tuning, evaluation metrics, and a visualization dashboard.
 
----
-
-Project Overview
+**Project Overview**
 
 This system analyzes student academic data such as:
 
