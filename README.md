@@ -9,10 +9,10 @@ An advanced Machine Learning project that predicts whether a student will **Pass
 
 This system analyzes student academic data such as:
 
-- Study Hours  
-- Attendance  
-- Previous Marks  
-- Assignments Completed  
+--> Study Hours  
+--> Attendance  
+--> Previous Marks  
+--> Assignments Completed  
 
 Using these features, it predicts student performance using a Decision Tree model.
 
