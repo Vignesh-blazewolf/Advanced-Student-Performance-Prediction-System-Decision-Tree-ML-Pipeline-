@@ -16,8 +16,7 @@ This system analyzes student academic data such as:
 
 Using these features, it predicts student performance using a Decision Tree model.
 
-
-🧠 Key Features
+**Key Features**
 
 --> Data preprocessing and feature selection  
 --> Train-test split with reproducibility  
